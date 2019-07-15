@@ -15,7 +15,7 @@ public class test {
         String birthdate = in.nextLine();
 
         //Getting user's weight
-        System.out.print("Please input your weight: ");
+        System.out.print("Please input gimme yo weight: ");
         int weight = in.nextInt();
 
         //Getting user's height
