@@ -2,6 +2,7 @@ public class Whiteboardquestion{
     public static void main(String[] args) {
         Whiteboardquestion newThing = new Whiteboardquestion();
         newThing.testFunction(87);
+        
     }
 
     public void testFunction(int printNumber){
